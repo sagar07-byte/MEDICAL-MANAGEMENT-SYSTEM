@@ -1,0 +1,434 @@
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-DEC-2016 00:48:00
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-DEC-2016 00:48:00
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-DEC-2016 00:48:23
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-DEC-2016 00:48:23
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-E8BD0C3D0)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2017 12:44:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-E8BD0C3D0)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2017 12:44:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-E8BD0C3D0)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2017 20:13:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-E8BD0C3D0)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2017 20:13:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:01
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:01
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:24
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:24
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:28
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:32:28
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:40:04
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-MAR-2017 16:40:04
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-AAE089A0D)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 19-MAY-2017 21:50:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGAR-AAE089A0D)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 19-MAY-2017 21:50:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:40:52
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:40:52
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:41:53
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:41:53
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:42:49
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:42:49
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:48:47
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:48:47
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:48:59
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:48:59
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:50:23
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:50:23
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:52:34
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:52:34
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:53:35
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:53:35
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:55:05
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:55:05
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:56:24
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\VB98\vb6.exe)(HOST=SAGARBARANWAL)(USER=SAGAR?BARANWAL))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 24-JUN-2017 16:56:24
+  Tracing not turned on.
