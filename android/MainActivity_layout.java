@@ -1,44 +1,52 @@
-package com.example.phonecall;
+package com.mcdevelopers.layoutforms;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
-import androidx.core.content.ContextCompat;
 
-import android.Manifest;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.Toast;
+import android.widget.EditText;
+import android.widget.Spinner;
 
 public class MainActivity extends AppCompatActivity {
-    private Button button;
+
+    //Defining the Views
+    EditText e1,e2;
+    Button bt;
+    Spinner s;
+    //Data for populating in Spinner
+    String [] dept_array={"CSE","ECE","IT","Mech","Civil"};
+    String name,reg,dept;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        button = (Button) findViewById(R.id.buttonCall);
-
-        button.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View arg0) {
-                Intent callIntent = new Intent(Intent.ACTION_CALL);
-                callIntent.setData(Uri.parse("tel:0377778888"));
-
-                if (ActivityCompat.checkSelfPermission(MainActivity.this,
-                        Manifest.permission.CALL_PHONE) !=
-                        PackageManager.PERMISSION_GRANTED) {
-                    return;
-                }
-                startActivity(callIntent);
+        //Referring the Views
+        e1= (EditText) findViewById(R.id.editText);
+        e2= (EditText) findViewById(R.id.editText2);
+        bt= (Button) findViewById(R.id.button);
+        s= (Spinner) findViewById(R.id.spinner);
+        //Creating Adapter for Spinner for adapting the data from array to Spinner
+        ArrayAdapter adapter= new ArrayAdapter(MainActivity.this,android.R.layout.simple_spinner_item,dept_array);
+        s.setAdapter(adapter);
+        //Creating Listener for Button
+        bt.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //Getting the Values from Views(Edittext & Spinner)
+                name=e1.getText().toString();
+                reg=e2.getText().toString();
+                dept=s.getSelectedItem().toString();
+                //Intent For Navigating to Second Activity
+                Intent i = new Intent(MainActivity.this,Activity_second.class);
+                //For Passing the Values to Second Activity
+                i.putExtra("name_key", name);
+                i.putExtra("reg_key",reg);
+                i.putExtra("dept_key", dept);
+                startActivity(i);
             }
         });
-
-        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.M)
-        ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.CALL_PHONE},1);
-
     }
 }
-
